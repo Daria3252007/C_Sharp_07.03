@@ -5,5 +5,4 @@
     return num;
 }
 int a = Nm(new Random().Next(100,1000));
-//int res = Nm(a);
 Console.WriteLine(a);
