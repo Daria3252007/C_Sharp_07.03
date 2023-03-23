@@ -10,5 +10,6 @@ int sum(int num)
 }
 return res;
 }
+
 int P = sum(int.Parse(Console.ReadLine()!));
 Console.WriteLine(P);
